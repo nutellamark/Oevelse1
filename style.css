@@ -1,0 +1,5 @@
+.grid_container1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* To kolonner med samme bredde */
+  gap: 10px; /* Afstand mellem artiklerne */
+}
